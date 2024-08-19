@@ -91,3 +91,11 @@ In total, over 20 measures were created for detailed analysis.
 ## CONCLUSION
 
 The analysis reveals crucial insights into patient demographics, healthcare utilization patterns, and financial performance. The clinic should focus on expanding services in Cardiology, Orthopedics, and Geriatrics, while optimizing cost management, particularly in outpatient services, to enhance overall financial performance.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a990c46c-af75-4e30-92c4-40e2b8b2373e" alt="5">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/242d96f6-2ebb-408a-a498-e22171bd45ac" alt="6">
+</p>
