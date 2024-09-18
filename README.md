@@ -101,3 +101,10 @@ The analysis reveals crucial insights into patient demographics, healthcare util
 <p align="center">
   <img src="https://github.com/user-attachments/assets/242d96f6-2ebb-408a-a498-e22171bd45ac" alt="6">
 </p>
+
+## KEY ACHIEVEMENTS
+- Designed and deployed a **multi-functional Power BI dashboard**, executing **ETL processes and data modeling**, transforming reporting across **5 critical clinic functions**, impacting **4500+ patients**.
+
+- Generated actionable insights into healthcare utilization and financial performance, driving a projected **15% revenue acceleration** and elevating **brand value by 15%**.
+
+- Leveraged DAX measures to conduct **in-depth exploratory data analysis** on total billing, and patient visits.
